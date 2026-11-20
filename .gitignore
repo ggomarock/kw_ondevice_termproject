@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Office 임시 잠금 파일
+~$*
